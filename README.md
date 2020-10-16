@@ -13,3 +13,5 @@ infectionIBM.m relies on generating an graph that describes people as nodes and 
   generateGraphBinom.m  (The number of edges that each node has follows a uniform distribution)
   
 The anaylictal results in the manuscript are plotted with literature data in tradeoffs.m.
+
+The data that appears in Figure 2 of the manuscript is stored in combinedInfections_Oct8_2020.mat
